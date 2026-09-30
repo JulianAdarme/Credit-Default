@@ -13,8 +13,6 @@ A binary classification project that predicts whether a credit card customer wil
 - [Key Results](#key-results)
 - [Key Findings](#key-findings)
 - [Tech Stack](#tech-stack)
-- [Repository Structure](#repository-structure)
-- [How to Run](#how-to-run)
 - [Limitations & Next Steps](#limitations--next-steps)
 
 ---
@@ -131,8 +129,6 @@ Un proyecto de clasificación binaria que predice si un cliente de tarjeta de cr
 - [Resultados Principales](#resultados-principales)
 - [Hallazgos Clave](#hallazgos-clave)
 - [Stack Tecnológico](#stack-tecnológico)
-- [Estructura del Repositorio](#estructura-del-repositorio)
-- [Cómo Ejecutarlo](#cómo-ejecutarlo)
 - [Limitaciones y Próximos Pasos](#limitaciones-y-próximos-pasos)
 
 ---
