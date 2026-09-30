@@ -104,24 +104,6 @@ Three progressively engineered feature sets were compared throughout the noteboo
 - SQLite (SQL-based exploratory analysis)
 - Matplotlib, Seaborn
 
-## Repository Structure
-
-```
-.
-├── credit_card_default.ipynb   # Main analysis notebook
-├── credit_default.csv          # Dataset (UCI Credit Card Default)
-└── README.md
-```
-
-## How to Run
-
-```bash
-git clone <repo-url>
-cd <repo-folder>
-pip install pandas numpy matplotlib seaborn scikit-learn scipy
-jupyter notebook credit_card_default.ipynb
-```
-
 ## Limitations & Next Steps
 
 This project is intended as a demonstration of an end-to-end classification workflow, not a production-ready credit risk model. Before any real-world use, it would require:
