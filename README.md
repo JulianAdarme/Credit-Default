@@ -222,24 +222,6 @@ A lo largo del notebook se compararon tres conjuntos de variables, construidos d
 - SQLite (análisis exploratorio basado en SQL)
 - Matplotlib, Seaborn
 
-## Estructura del Repositorio
-
-```
-.
-├── credit_card_default.ipynb   # Notebook principal del análisis
-├── credit_default.csv          # Dataset (UCI Credit Card Default)
-└── README.md
-```
-
-## Cómo Ejecutarlo
-
-```bash
-git clone <repo-url>
-cd <carpeta-del-repo>
-pip install pandas numpy matplotlib seaborn scikit-learn scipy
-jupyter notebook credit_card_default.ipynb
-```
-
 ## Limitaciones y Próximos Pasos
 
 Este proyecto está pensado como una demostración de un flujo de trabajo de clasificación de principio a fin, no como un modelo de riesgo crediticio listo para producción. Antes de cualquier uso real, sería necesario:
